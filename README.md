@@ -1,7 +1,6 @@
 # Engeto Projects
 
-This repository contains exercises and mini projects created during the **Engeto Data Analyst with Python** course (2025).  
-It covers three main areas of study: Python, SQL, and Data Analysis.
+This repository contains exercises and mini projects created during the **Engeto Data Analyst with Python** course (2025). It covers three main areas of study: Python, SQL, and Data Analysis.
 
 ---
 
